@@ -1,0 +1,5 @@
+name = "TRADEAI Neural Trading Terminal"
+
+[auth]
+enabled = true
+signup = "open"
