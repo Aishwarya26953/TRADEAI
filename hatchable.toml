@@ -3,3 +3,11 @@ name = "TRADEAI Neural Trading Terminal"
 [auth]
 enabled = true
 signup = "open"
+
+[db.tables.tradeai_watchlists]
+read = "own"
+write = "own"
+
+[db.tables.tradeai_strategies]
+read = "own"
+write = "own"
